@@ -1,0 +1,4 @@
+String str1 = "ALHIOPK";
+String str2 = "KHXOLPMK";
+String result = longestSmilarChars(str1, str2);
+System.out.println(result);
